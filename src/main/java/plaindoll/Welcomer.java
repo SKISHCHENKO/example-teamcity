@@ -15,4 +15,8 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+
+       public String sayHunterReply() {
+    return "The hunter is ready for a new journey.";
+}
 }
